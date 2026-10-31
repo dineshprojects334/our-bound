@@ -1,0 +1,11 @@
+{
+  "name": "our-bound-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions for Our Bound",
+  "main": "index.js",
+  "dependencies": {
+    "@netlify/functions": "^2.8.2",
+    "cloudinary": "^2.5.1",
+    "mongodb": "^6.13.0"
+  }
+}
